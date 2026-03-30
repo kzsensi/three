@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+websockets
+numpy
+torch
+torchvision
+torchaudio
+transformers
+librosa
+opencv-python-headless
+mediapipe
+onnxruntime
+webrtcvad
